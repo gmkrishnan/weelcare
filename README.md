@@ -1,6 +1,13 @@
 <h2>Smart Weelchair</h2>
 
-A smart wheelchair that utilizes autonomous and robotic technology is an advanced mobility solution for individuals with disabilities. These wheelchairs use sensors, artificial intelligence, and machine learning algorithms to navigate their environment and avoid obstacles. They can be controlled through various means such as voice commands, head movements, or even eye tracking, allowing users to move around with ease. Some models also come equipped with robotic arms or other assistive devices to help users perform daily tasks. Overall, a smart wheelchair that incorporates autonomous and robotic technology can greatly improve the independence and quality of life for individuals with mobility impairments.
+Dear open-source community,
+
+We are requesting your help in developing a smart wheelchair that utilizes autonomous and robotic technology. This advanced mobility solution has the potential to greatly improve the independence and quality of life for individuals with disabilities.
+
+By incorporating sensors, artificial intelligence, and machine learning algorithms, we can create a wheelchair that can navigate its environment and avoid obstacles with ease. Additionally, by integrating robotic arms or other assistive devices, we can help users perform daily tasks and increase their independence.
+
+We welcome contributions from the community in the form of code, design, research, and more. Together, we can create a better future for all. Thank you for your support.
+
 
 # OpenAssistive - This is part of opensource project. 
 
